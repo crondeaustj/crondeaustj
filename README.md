@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @crondeaustj, an Ecology MSc student in the Poisot lab in Université de Montréal, and Mennill lab in University of Windsor
-- 👀 I’m interested in using AI to detect and identify animal sounds 🐦:penguin::frog::bee::dolphin::elephant:
-- 🌱 I’m currently learning how to navigate the world of grad studies and to figure out the tools I will need to get started! 😱
-- 📫 Reach me on twitter @CamilleRstj or by email camillerondeau@gmail.com
+👋 Hi, I’m @crondeaustj, a Biology PhD researcher South Denmark University
+I'm part of WildDrone, a Marie Curie doctoral network
